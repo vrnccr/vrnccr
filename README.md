@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**vrnccr/vrnccr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Data Science student** who loves exploring data, building models, and turning insights into impactful solutions. Here's a little more about me:
 
-Here are some ideas to get you started:
+## 🔍 About Me
+- 🎓 **Education**: Bachelor Data Science at Katolische Universität Eichstätt-Ingolstadt.
+- 💻 **Interests**: Machine Learning, Data Visualization, Applied Mathematics, Statistics, and AI-driven solutions.
+- 🌱 **Currently Learning**: Deep Learning, Data Analytics, Figma, and improving my skills in SQL and Python.
+- 📈 **Career Goal**: To leverage data-driven insights to solve real-world problems and contribute to innovative projects.
+- 🛠️ **Current Project**: Working on the **Consul Democracy** project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Programming Languages**: Python, SQL
+- **Tools and Libraries**: Pandas, NumPy, SciPy, SymPy, Scikit-learn, Matplotlib, Seaborn
+- **Data Visualization**: Power BI
+- **Databases**: MySQL
+
+## 💬 Connect with Me
+- 📧 Email: [veronika.rybak@sttud.fuu.de]
+- 💼 LinkedIn: [https://www.linkedin.com/in/veronika-rybak-55379a337/]
+
+Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about Data Science and tech! 😊
