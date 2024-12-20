@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Science student** who love
 
 ## 💬 Connect with Me
 - 📧 Email: [veronika.rybak@stud.fuu.de]
-- 💼 LinkedIn: [https://www.linkedin.com/in/veronika-rybak-55379a337/]
-- 📝 Portfolio: [your portfolio link, if applicable]
+- 💼 [LinkedIn](https://www.linkedin.com/in/veronika-rybak-55379a337/)
+- 📝 [LinkTree](https://linktr.ee/nfischer)
 
 Thanks for stopping by! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about Data Science and tech! 😊
